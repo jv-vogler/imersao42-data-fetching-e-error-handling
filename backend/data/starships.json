@@ -1,0 +1,292 @@
+[
+  {
+    "name": "CR90 corvette",
+    "model": "CR90 corvette",
+    "starship_class": "Corvette",
+    "speed": 85,
+    "maneuverability": 70,
+    "firepower": 60,
+    "shields": 50,
+    "overall": 66
+  },
+  {
+    "name": "Star Destroyer",
+    "model": "Imperial I-class Star Destroyer",
+    "starship_class": "Star Destroyer",
+    "speed": 65,
+    "maneuverability": 30,
+    "firepower": 90,
+    "shields": 85,
+    "overall": 68
+  },
+  {
+    "name": "Sentinel landing craft",
+    "model": "Sentinel-class landing craft",
+    "starship_class": "Landing craft",
+    "speed": 70,
+    "maneuverability": 60,
+    "firepower": 40,
+    "shields": 45,
+    "overall": 54
+  },
+  {
+    "name": "Millennium Falcon",
+    "model": "YT-1300 light freighter",
+    "starship_class": "Light freighter",
+    "speed": 95,
+    "maneuverability": 85,
+    "firepower": 70,
+    "shields": 65,
+    "overall": 79
+  },
+  {
+    "name": "Y-wing",
+    "model": "BTL Y-wing",
+    "starship_class": "Assault starfighter",
+    "speed": 75,
+    "maneuverability": 70,
+    "firepower": 65,
+    "shields": 50,
+    "overall": 65
+  },
+  {
+    "name": "X-wing",
+    "model": "T-65 X-wing",
+    "starship_class": "Starfighter",
+    "speed": 80,
+    "maneuverability": 80,
+    "firepower": 70,
+    "shields": 55,
+    "overall": 71
+  },
+  {
+    "name": "TIE Advanced x1",
+    "model": "Twin Ion Engine Advanced x1",
+    "starship_class": "Starfighter",
+    "speed": 90,
+    "maneuverability": 75,
+    "firepower": 75,
+    "shields": 45,
+    "overall": 71
+  },
+  {
+    "name": "Rebel transport",
+    "model": "GR-75 medium transport",
+    "starship_class": "Medium transport",
+    "speed": 50,
+    "maneuverability": 40,
+    "firepower": 30,
+    "shields": 60,
+    "overall": 45
+  },
+  {
+    "name": "Slave 1",
+    "model": "Firespray-31 patrol craft",
+    "starship_class": "Patrol craft",
+    "speed": 80,
+    "maneuverability": 70,
+    "firepower": 80,
+    "shields": 50,
+    "overall": 70
+  },
+  {
+    "name": "Imperial shuttle",
+    "model": "Lambda-class T-4a shuttle",
+    "starship_class": "Armed government transport",
+    "speed": 70,
+    "maneuverability": 60,
+    "firepower": 50,
+    "shields": 55,
+    "overall": 59
+  },
+  {
+    "name": "Nebulon-B frigate",
+    "model": "EF76 Nebulon-B",
+    "starship_class": "Frigate",
+    "speed": 60,
+    "maneuverability": 40,
+    "firepower": 75,
+    "shields": 70,
+    "overall": 61
+  },
+  {
+    "name": "A-wing",
+    "model": "RZ-1 A-wing interceptor",
+    "starship_class": "Starfighter",
+    "speed": 100,
+    "maneuverability": 90,
+    "firepower": 55,
+    "shields": 40,
+    "overall": 71
+  },
+  {
+    "name": "B-wing",
+    "model": "A/SF-01 B-wing",
+    "starship_class": "Assault starfighter",
+    "speed": 75,
+    "maneuverability": 60,
+    "firepower": 85,
+    "shields": 50,
+    "overall": 68
+  },
+  {
+    "name": "Republic Cruiser",
+    "model": "Consular-class cruiser",
+    "starship_class": "Space cruiser",
+    "speed": 80,
+    "maneuverability": 55,
+    "firepower": 65,
+    "shields": 60,
+    "overall": 65
+  },
+  {
+    "name": "Naboo fighter",
+    "model": "N-1 starfighter",
+    "starship_class": "Starfighter",
+    "speed": 90,
+    "maneuverability": 85,
+    "firepower": 60,
+    "shields": 45,
+    "overall": 70
+  },
+  {
+    "name": "Naboo Royal Starship",
+    "model": "J-type 327 Nubian",
+    "starship_class": "Luxury transport",
+    "speed": 85,
+    "maneuverability": 65,
+    "firepower": 40,
+    "shields": 60,
+    "overall": 63
+  },
+  {
+    "name": "Scimitar",
+    "model": "Star Courier",
+    "starship_class": "Light freighter",
+    "speed": 85,
+    "maneuverability": 70,
+    "firepower": 70,
+    "shields": 55,
+    "overall": 70
+  },
+  {
+    "name": "J-type diplomatic barge",
+    "model": "J-type diplomatic barge",
+    "starship_class": "Diplomatic barge",
+    "speed": 80,
+    "maneuverability": 60,
+    "firepower": 35,
+    "shields": 55,
+    "overall": 58
+  },
+  {
+    "name": "Jedi starfighter",
+    "model": "Delta-7 Aethersprite",
+    "starship_class": "Starfighter",
+    "speed": 95,
+    "maneuverability": 90,
+    "firepower": 50,
+    "shields": 40,
+    "overall": 69
+  },
+  {
+    "name": "H-type Nubian yacht",
+    "model": "H-type Nubian yacht",
+    "starship_class": "Luxury transport",
+    "speed": 80,
+    "maneuverability": 60,
+    "firepower": 40,
+    "shields": 55,
+    "overall": 59
+  },
+  {
+    "name": "Solar Sailer",
+    "model": "Punworcca 116-class",
+    "starship_class": "Sloop",
+    "speed": 80,
+    "maneuverability": 65,
+    "firepower": 45,
+    "shields": 50,
+    "overall": 60
+  },
+  {
+    "name": "Trade Federation cruiser",
+    "model": "Lucrehulk-class battleship",
+    "starship_class": "Battleship",
+    "speed": 60,
+    "maneuverability": 35,
+    "firepower": 85,
+    "shields": 80,
+    "overall": 65
+  },
+  {
+    "name": "Theta-class shuttle",
+    "model": "Theta-class T-2c",
+    "starship_class": "Transport",
+    "speed": 70,
+    "maneuverability": 55,
+    "firepower": 40,
+    "shields": 55,
+    "overall": 55
+  },
+  {
+    "name": "Republic attack cruiser",
+    "model": "Senator-class Star Destroyer",
+    "starship_class": "Star Destroyer",
+    "speed": 65,
+    "maneuverability": 40,
+    "firepower": 85,
+    "shields": 75,
+    "overall": 66
+  },
+  {
+    "name": "Naboo star skiff",
+    "model": "J-type star skiff",
+    "starship_class": "Light transport",
+    "speed": 80,
+    "maneuverability": 65,
+    "firepower": 40,
+    "shields": 55,
+    "overall": 60
+  },
+  {
+    "name": "Jedi Interceptor",
+    "model": "Eta-2 Actis",
+    "starship_class": "Starfighter",
+    "speed": 95,
+    "maneuverability": 90,
+    "firepower": 55,
+    "shields": 40,
+    "overall": 70
+  },
+  {
+    "name": "ARC-170",
+    "model": "Aggressive Reconnaissance-170",
+    "starship_class": "Starfighter",
+    "speed": 80,
+    "maneuverability": 70,
+    "firepower": 80,
+    "shields": 60,
+    "overall": 73
+  },
+  {
+    "name": "Belbullab-22",
+    "model": "Belbullab-22 starfighter",
+    "starship_class": "Starfighter",
+    "speed": 90,
+    "maneuverability": 75,
+    "firepower": 70,
+    "shields": 50,
+    "overall": 71
+  },
+  {
+    "name": "V-wing",
+    "model": "Alpha-3 Nimbus",
+    "starship_class": "Starfighter",
+    "speed": 90,
+    "maneuverability": 80,
+    "firepower": 65,
+    "shields": 45,
+    "overall": 70
+  }
+]
